@@ -190,6 +190,6 @@ This experiment demonstrates practical understanding of:
 **Dhananjay Mandal**
 
 Exp 05 — React Login & Registration System
-https://github.com/mandaldhananjay248-beep/Exp-05--react-login-registration
+Github repository: https://github.com/mandaldhananjay248-beep/Exp-05--react-login-registration
 ## 📄 License
 For educational and academic purposes.
